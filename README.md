@@ -1,4 +1,6 @@
-### Hi there 👋🔭
+### Hi there 👋 My name is wongyeung Kim!
+- 🌱 I’m currently learning machine learning& Deep learning with python
+
 
 <!--
 **wongyeung96/wongyeung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
