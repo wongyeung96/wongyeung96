@@ -1,4 +1,4 @@
-### Hi there 👋 My name is wongyeung Kim!
+### Hi there 👋 My name is wongyeong Kim!
 - 🌱 I’m currently learning machine learning& Deep learning with python
 
 
